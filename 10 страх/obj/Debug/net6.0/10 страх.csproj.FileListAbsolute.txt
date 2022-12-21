@@ -1,0 +1,15 @@
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\bin\Debug\net6.0\10 страх.exe
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\bin\Debug\net6.0\10 страх.deps.json
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\bin\Debug\net6.0\10 страх.runtimeconfig.json
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\bin\Debug\net6.0\10 страх.dll
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\bin\Debug\net6.0\10 страх.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.csproj.AssemblyReference.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.AssemblyInfoInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.AssemblyInfo.cs
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.csproj.CoreCompileInputs.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.dll
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\refint\10 страх.dll
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.pdb
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\10 страх.genruntimeconfig.cache
+C:\Users\egork\OneDrive\Рабочий стол\Шарага\2 курс\ОАИП C#\10 страх\10 страх\obj\Debug\net6.0\ref\10 страх.dll
